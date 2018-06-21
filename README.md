@@ -3,4 +3,4 @@
 
 > 官网：http://www.layui.com/template/xianyan/
 
-该模板由@贤心 设计， 由 layui 团队新人 @xzw1999 完成前端编码。
+该模板由 [贤心](https://github.com/sentsin) 设计， 由 layui 团队新人 [xzw1999](https://github.com/xzw1999) 完成前端编码。
