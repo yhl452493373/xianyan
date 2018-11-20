@@ -341,6 +341,11 @@ body {
 /* end foooter */
 
 /*start login*/
+.box-title{
+    text-align: center;
+    color: #6e6e6e;
+}
+
 .login-box, .register-box {
     position: absolute;
     width: 332px;
@@ -351,11 +356,11 @@ body {
     border: 1px solid #ccc;
     box-shadow: 0 0 10px 2px #ccc;
     top: 50%;
-    margin-top: -156px;
+    margin-top: -175px;
 }
 
 .register-box{
-    margin-top: -182px;
+    margin-top: -201px;
 }
 
 .login-box .layui-form-item:last-child,
